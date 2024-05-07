@@ -1,0 +1,9 @@
+{
+  "name": "My Next.js Extension",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "default-icon.png"
+  }
+}
